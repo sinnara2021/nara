@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to 나라선생님방
 
-You can use the [editor on GitHub](https://github.com/sinnara2021/nara/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+오늘 처음 챗봇을 만들어 봄..
+앞으로 만든 과정을 기록할 예저임.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
